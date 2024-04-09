@@ -1,0 +1,15 @@
+a) URL сайта. 
+https://www.litres.ru
+b) Описание. 
+Я получаю информацию по поисковому запросу: Дюна, о названии книг, авторе, рейтинге и ссылке на книгу
+c) Подход. 
+Я использовала поисковую строку, чтобы ввести слово, нажала на кнопку, взяла информацию
+d) Трудности. 
+Были трудности с нажатием кнопок "показать еще", "вперед", перехода на другую страницу
+Ошибки: 
+1)is not clickable at point (749, 558). Other element would receive the click: <div class="CookieAcceptPopup_container__brIgd">...</div>
+  (Session info: chrome=123.0.6312.105)
+2) no such element: Unable to locate element using chromedriver and Selenium in production environment
+
+e) Результаты. 
+Данные извлечены
